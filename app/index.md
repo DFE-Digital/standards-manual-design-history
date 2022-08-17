@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: home
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "Apply the Service Standard in the Department for Education design history"
+description: "A history of the design work for Apply the Service Standard in DfE service."
 pagination:
   data: collections.post
   reverse: true
