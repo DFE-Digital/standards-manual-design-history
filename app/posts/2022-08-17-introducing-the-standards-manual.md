@@ -1,6 +1,6 @@
 ---
-title: Introducing the Service Standard manual
-description: This introduces the manual, what it is and what it contains.
+title: Introducing Apply the Service Standard in DfE
+description: This introduces the service, what it is and what it contains.
 date: 2022-08-17
 screenshots:
   items:
