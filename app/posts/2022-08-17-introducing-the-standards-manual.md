@@ -5,7 +5,7 @@ date: 2022-08-17
 screenshots:
   items:
     - text: Service Standard manual homepage
-      src: images/homepage.png
+      src: /public/homepage.png
       caption: |
         You can include captions with each image, and each caption can include markdown. This is a screenshot of the [index page](/).
  
