@@ -76,6 +76,6 @@ We are building a guidance service so that service teams can understand what the
 
 Each of the 14 Standard points will follow the same content pattern:
 
-- what the Standard point is
+- what the standard point is
 - why it is important
 - when to apply the Standard point at each delivery phase
