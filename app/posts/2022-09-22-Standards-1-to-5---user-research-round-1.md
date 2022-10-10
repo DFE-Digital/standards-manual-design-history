@@ -51,7 +51,7 @@ Users liked the think about box as it brought together the standard across the p
 ![Think about box with prompts to consider when building a service, to help teams meet a particular service standard](/2022-09-22-screenshots/think-about.png)
 
 ### What we’ve done as a result
-We have now incorporated this across all other 14 standard points using data from assessment reports to write relevant content.
+We've now incorporated this across all other 14 standard points using data from assessment reports to write relevant content.
 
 ## What we found
 Users appreciated the soft language of 'what assessors will look for', however, felt it was too focused on assessments. 
