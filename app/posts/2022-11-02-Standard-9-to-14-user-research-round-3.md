@@ -75,6 +75,8 @@ Users felt the practical examples and links out to how to action the points in t
 
 We’ve worked with subject matter experts in the department to add DfE specific guidance and examples of what good looks like in the areas users raised in the research.  
 
+![Image showing think about content removed and DfE specific links and guidance added to things to consider](/2022-11-02-screenshots/standard11-tipsincontent.png)
+
 ## Measuring users’ confidence survey
 
 
