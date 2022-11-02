@@ -32,9 +32,9 @@ The ‘think about’ box was received well by users, however its difference and
 
 
 ### What we’ve done as a result
-We've included an introduction line in the ‘think about’ box to explain that the prompts have come from DfE assessors, to make it clearer on how to meet the standard. 
+We've changed the heading from 'think about' to 'DfE assessor tips' to focus on the fact that these are tips from assessors. We've also included an introduction line to explain that the prompts have come from DfE assessors. 
 
-![Think about box with an introduction sentence as to where the prompts came from. This sits above Things to consider](/2022-10-07-screenshots/think-about.png)
+![Think about box with an introduction sentence as to where the prompts came from. This sits above Things to consider](/2022-10-07-screenshots/thinkabout-after.png)
 
 ## What we found
 As we don’t have live assessments at DfE and the points raised in the beta and live sections don't differ too much, users felt it was repetitive and unnecessary to have both phases split out separately.  
@@ -59,7 +59,7 @@ We measured users’ confidence of applying the standards before and after they 
 <br> 
 
 <table class="govuk-table">
-  <caption class="govuk-table__caption govuk-table__caption--m">Average confidence rating</caption>
+  <caption class="govuk-table__caption govuk-table__caption--m">Average confidence rating out of 5</caption>
   <thead class="govuk-table__head">
     <tr class="govuk-table__row">
       <th scope="col" class="govuk-table__header">Service Standard point</th>

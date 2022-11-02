@@ -108,7 +108,7 @@ We measured users’ confidence of applying the standards before and after they 
 <br> 
 
 <table class="govuk-table">
-  <caption class="govuk-table__caption govuk-table__caption--m">Average confidence rating</caption>
+  <caption class="govuk-table__caption govuk-table__caption--m">Average confidence rating out of 5</caption>
   <thead class="govuk-table__head">
     <tr class="govuk-table__row">
       <th scope="col" class="govuk-table__header">Service Standard point</th>
