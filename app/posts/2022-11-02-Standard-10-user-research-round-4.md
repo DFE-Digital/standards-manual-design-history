@@ -54,6 +54,6 @@ We measured users’ confidence of applying the standards before and after they 
     <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">10</th>
       <td class="govuk-table__cell">3.56</td>
-      <td class="govuk-table__cell">3.4</td>
+      <td class="govuk-table__cell">4.4</td>
     </tr>
 </table>
